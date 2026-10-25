@@ -1,5 +1,5 @@
-# claude-mem for Cursor
+# claude-mem için Cursor
 
-Install from the Cursor or Grok Bot plugin store as **claude-mem-cursor**. Does not install Grok Bot.
+Cursor veya Grok Bot eklenti mağazasından **claude-mem-cursor** olarak yükleyin. Grok Bot kurmaz.
 
-After install: `npx claude-mem install --ide cursor` for a local worker, or set `CLAUDE_MEM_MCP_TOKEN` for remote MCP.
+Yükledikten sonra: yerel çalışan için `npx claude-mem install --ide cursor` çalıştırın; veya uzaktan MCP için `CLAUDE_MEM_MCP_TOKEN` değerini ayarlayın.

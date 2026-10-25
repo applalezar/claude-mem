@@ -1,5 +1,5 @@
-# claude-mem for Grok Bot
+# claude-mem için Grok Bot
 
-Install from the Grok Bot or Cursor plugin store as **claude-mem-grok-bot**. Does not install Cursor.
+Grok Bot veya Cursor eklenti mağazasından **claude-mem-grok-bot** olarak yükleyin. Cursor kurmaz.
 
-Grok Bot has no hooks. After install: `npx claude-mem install --ide grok-bot` for a local worker plus CMEM Pro observer. `--provider host` is an explicit local loopback-shim opt-in. Set `CLAUDE_MEM_MCP_TOKEN` for remote MCP.
+Grok Bot'un hook'ları yoktur. Yükledikten sonra: yerel çalışan için `npx claude-mem install --ide grok-bot` çalıştırın; ayrıca CMEM Pro gözlemcisi ekleyin. `--provider host`, açıkça yerel loopback shim opt-in'idir. Uzaktan MCP için `CLAUDE_MEM_MCP_TOKEN` veya uygun ortam değişkenlerini ayarlayın.
